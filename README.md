@@ -170,7 +170,7 @@ Data augmentation:
 
 **Alexios Papadopoulos**
 
----
+----
 
 ## Acknowledgments
 
